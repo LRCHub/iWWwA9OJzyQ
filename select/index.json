@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "+Matter",
+  "base_artist": "ONE OK ROCK",
+  "createdAt": "2025-12-29T03:20:59.695843Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "It's Just A Matter Of Time",
+      "artist": "Sonny James",
+      "has_synced": false,
+      "path": "select/01_It's_Just_A_Matter_Of_Time_Sonny_James.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "It's Just A Matter Of Time",
+      "artist": "Randy Travis",
+      "has_synced": true,
+      "path": "select/02_It's_Just_A_Matter_Of_Time_Randy_Travis.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "It's Just a Matter of Time (Album Version)",
+      "artist": "Randy Travis",
+      "has_synced": true,
+      "path": "select/03_It's_Just_a_Matter_of_Time_(Album_Version)_Randy_Travis.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "No Matter How High",
+      "artist": "The Oak Ridge Boys",
+      "has_synced": true,
+      "path": "select/04_No_Matter_How_High_The_Oak_Ridge_Boys.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "No Matter How High (Album Version)",
+      "artist": "The Oak Ridge Boys",
+      "has_synced": true,
+      "path": "select/05_No_Matter_How_High_(Album_Version)_The_Oak_Ridge_Boys.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Things That Matter",
+      "artist": "Jameson Rodgers",
+      "has_synced": true,
+      "path": "select/06_Things_That_Matter_Jameson_Rodgers.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Things That Matter",
+      "artist": "Jameson Rodgers",
+      "has_synced": true,
+      "path": "select/07_Things_That_Matter_Jameson_Rodgers.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Don't Matter To Me",
+      "artist": "Drake feat. Michael Jackson",
+      "has_synced": true,
+      "path": "select/08_Don't_Matter_To_Me_Drake_feat._Michael_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Don't Matter To Me (feat. Michael Jackson)",
+      "artist": "Drake",
+      "has_synced": true,
+      "path": "select/09_Don't_Matter_To_Me_(feat._Michael_Jackson)_Drake.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "It Doesn't Matter",
+      "artist": "Wyclef Jean feat. The Rock & Melky Sedeck",
+      "has_synced": true,
+      "path": "select/10_It_Doesn't_Matter_Wyclef_Jean_feat._The_Rock_&_Melky_Sedeck.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "It Doesn't Really Matter",
+      "artist": "Zapp",
+      "has_synced": false,
+      "path": "select/11_It_Doesn't_Really_Matter_Zapp.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Barricade (Matter of Fact)",
+      "artist": "Yumi Zouma",
+      "has_synced": true,
+      "path": "select/12_Barricade_(Matter_of_Fact)_Yumi_Zouma.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Don't Even Matter",
+      "artist": "Yung Mal",
+      "has_synced": false,
+      "path": "select/13_Don't_Even_Matter_Yung_Mal.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Family Don't Matter",
+      "artist": "Young Thug feat. Millie Go Lightly",
+      "has_synced": true,
+      "path": "select/14_Family_Don't_Matter_Young_Thug_feat._Millie_Go_Lightly.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Family Don't Matter (feat. Millie Go Lightly)",
+      "artist": "Young Thug",
+      "has_synced": true,
+      "path": "select/15_Family_Don't_Matter_(feat._Millie_Go_Lightly)_Young_Thug.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "No Matter How Hard You Try",
+      "artist": "Young Galaxy",
+      "has_synced": true,
+      "path": "select/16_No_Matter_How_Hard_You_Try_Young_Galaxy.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Errupt and Matter",
+      "artist": "Moby & The Void Pacific Choir",
+      "has_synced": false,
+      "path": "select/17_Errupt_and_Matter_Moby_&_The_Void_Pacific_Choir.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "+Matter",
+      "artist": "ONE OK ROCK",
+      "has_synced": false,
+      "path": "select/pl_01_+Matter_ONE_OK_ROCK.txt"
+    }
+  ]
+}
