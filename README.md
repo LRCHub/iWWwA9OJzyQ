@@ -1,0 +1,78 @@
+# ONE OK ROCK – +Matter
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+Life can be heavy
+Time can be scary
+Days around the sun
+Battles to be won
+If love is war
+Come crash into my vacant arms
+Embrace, explore
+We're supernova racing
+Do I matter to you?
+Do I matter to you?
+Do I matter to you-ooh-ooh?
+You matter to me
+You matter to me
+You matter and we all matter
+Do I matter to you?
+Do I matter to you?
+Do I matter to you-ooh-ooh?
+You matter to me
+You matter to me
+You matter and we all matter
+Should we be sharing
+All that we carry?
+I know songs have been sung
+But change is yet to come
+If love is war
+Come crash into my vacant arms
+The space we ignore
+Is the answer to our fading
+Do I matter to you?
+Do I matter to you?
+Do I matter to you-ooh-ooh?
+You matter to me
+You matter to me
+You matter and we all matter
+Do I matter to you?
+Do I matter to you?
+Do I matter to you-ooh-ooh?
+You matter to me
+You matter to me
+You matter and we all matter
+Left to right
+Will you take,
+will you take my hand?
+Hold it tight, feel the waste
+As our atoms collide
+Do you sing, do you sing
+when you look within?
+Is it faith,
+is it hate pulling you back in?
+Do you wanna believe
+there's a war to win?
+Do you wanna believe?
+You matter to me
+Do I matter to you?
+Do I matter to you-ooh-ooh?
+You matter to me
+You matter to me
+You matter and we all matter
+Do I matter to you?
+Do I matter to you?
+Do I matter to you-ooh-ooh?
+You matter to me
+You matter to me
+You matter and we all matter
+Do you sing, do you sing
+when you look within?
+Is it faith, is it hate,
+pulling you back in?
+Do you wanna believe
+there's a war to win?
+Do you wanna believe?
+You matter to me
+```
